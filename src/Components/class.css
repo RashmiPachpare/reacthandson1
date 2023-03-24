@@ -1,0 +1,19 @@
+.class{
+    width:500px;
+    height:300px;
+    background-image:linear-gradient(135deg, #FF6CAB 0%, #7366FF 50%);
+    background-color: #fa691a;
+    font-style: italic;
+    font-weight: 900;
+    position: absolute;
+    text-align: center;
+    left: 1000px;
+    top: 400px;
+    box-shadow: 10px 20px 3px blanchedalmond;
+}
+#class{
+    color:black;
+    text-shadow: -7px 20px 10px black;
+    font-weight: 900;
+    font-size: 35px;
+}
